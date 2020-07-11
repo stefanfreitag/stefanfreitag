@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :de: I'm living in Dortmund, North Rhine-Westphalia
+- 🌱 I’m currently learning a lot of things about :cloud: computing - the good things as well as the bad things
 <!--
 **stefanfreitag/stefanfreitag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
