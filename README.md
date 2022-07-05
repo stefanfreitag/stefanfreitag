@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: 
   - Twitter (:bird:): [@stefanfreitag](https://twitter.com/stefanfreitag)
-  - e-mail: (:incoming_envelope:): stefan@stefreitag.de
+  - e-mail: (:incoming_envelope:): stefan@udo.edu
 <!--
 **stefanfreitag/stefanfreitag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
