@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=stefanfreitag&show_icons=true&hide_title=false&theme=ocean_dark" alt="github stats for egoist">
+
 ### Hi there 👋
 
 - :de: I'm living in Dortmund, North Rhine-Westphalia
@@ -9,6 +11,7 @@
 - 📫 How to reach me: 
   - Twitter (:bird:): [@stefanfreitag](https://twitter.com/stefanfreitag)
   - e-mail: (:incoming_envelope:): stefan.freitag@udo.edu
+
 <!--
 **stefanfreitag/stefanfreitag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
