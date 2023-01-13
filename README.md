@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=stefanfreitag&show_icons=true&hide_title=false&theme=ocean_dark" alt="github stats for egoist">
-
 ### Hi there 👋
 
 - :de: I'm living in Dortmund, North Rhine-Westphalia
